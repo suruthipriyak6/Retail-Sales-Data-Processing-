@@ -1,0 +1,42 @@
+[
+  {
+    "product_id": "P100",
+    "competitor_price": 122
+  },
+  {
+    "product_id": "P101",
+    "competitor_price": 169
+  },
+  {
+    "product_id": "P102",
+    "competitor_price": 47
+  },
+  {
+    "product_id": "P103",
+    "competitor_price": 155
+  },
+  {
+    "product_id": "P104",
+    "competitor_price": 147
+  },
+  {
+    "product_id": "P105",
+    "competitor_price": 192
+  },
+  {
+    "product_id": "P106",
+    "competitor_price": 195
+  },
+  {
+    "product_id": "P107",
+    "competitor_price": 43
+  },
+  {
+    "product_id": "P108",
+    "competitor_price": 96
+  },
+  {
+    "product_id": "P109",
+    "competitor_price": 114
+  }
+]
